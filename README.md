@@ -70,13 +70,13 @@ This is one of the most important Linux system files. It stores information abou
 
 # Current Logged-in User
 
-![Part A Screenshot 1](Screenshots/partA_1.png)
+![Part A 1](partA_1.png)
 
 ---
 
 # User Information and `/etc/passwd`
 
-![Part A Screenshot 2](Screenshots/partA_2.png)
+![Part A 2](partA_2.png)
 
 ---
 
@@ -152,13 +152,13 @@ The `groups` command confirmed that each user was successfully added to the corr
 
 # Creating Users and Groups
 
-![Part B Screenshot 1](Screenshots/partB_1.png)
+![Part B 1](partB_1.png)
 
 ---
 
 # Verifying Group Membership
 
-![Part B Screenshot 2](Screenshots/partB_2.png)
+![Part B 2](partB_2.png)
 
 ---
 
@@ -207,7 +207,7 @@ The output confirmed that the owner had changed successfully.
 ---
 
 
-![Part C Screenshot](Screenshots/partC_1.png)
+![Part C ](partC_1.png)
 
 ---
 
@@ -264,13 +264,13 @@ Although useful for testing, it is considered insecure in production systems.
 
 # Changing Permissions
 
-![Part D Screenshot 1](Screenshots/partD_1.png)
+![Part D 1](partD_1.png)
 
 ---
 
 # Verifying Permissions
 
-![Part D Screenshot 2](Screenshots/partD_2.png)
+![Part D 2](partD_2.png)
 
 ---
 
@@ -354,5 +354,6 @@ Organizations restrict permissions to:
 - chmod
 
 ---
+
 
 
